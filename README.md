@@ -1,1 +1,2 @@
 # rebot
+WhatsApp Bot setup
