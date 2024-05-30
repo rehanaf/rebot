@@ -1,0 +1,17 @@
+{
+    "name": "rebot",
+    "version": "1.0.0",
+    "description": "Whatsapp bot setup",
+    "main": "index.js",
+    "scripts": {
+        "code": "node index.js --code",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Rehanaf",
+    "license": "ISC",
+    "dependencies": {
+        "@whiskeysockets/baileys": "^6.4.0",
+        "qrcode-terminal": "^0.12.0"
+    }
+}
